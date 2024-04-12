@@ -1,8 +1,12 @@
 # Cloud Platforms - Final Assignment (G2)
 
-Here you find the two codes that were used for the project:
+This repository contains the code used for the final assignment.
 
-Part 1: Jupyter Notebook in Sagemaker to preprocess the data
-Part 2: Jupyter Notebook to call and test the model on your local device
+## Project Overview
 
-All other steps of the Assignment were created in AWS directly.
+The Project overview can be found in the final presentation.
+
+## Contents
+
+- `data_preprocessing.ipynb`: Jupyter Notebook for preprocessing the data in AWS SageMaker.
+- `model_testing.ipynb`: Jupyter Notebook for testing the model on a local device.
